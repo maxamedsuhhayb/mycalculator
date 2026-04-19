@@ -1,2 +1,0 @@
-# mycalculator
-mycalculator
